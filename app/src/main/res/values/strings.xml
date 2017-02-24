@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScreenRecorder</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="title_activity_screen_record">ScreenRecordActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
