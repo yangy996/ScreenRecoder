@@ -1,3 +1,4 @@
 # ScreenRecoder
  效果：
- https://github.com/YY007H/ScreenRecoder/blob/master/art/11.gif
+ ![Image text](https://raw.githubusercontent.com/YY007H/ScreenRecoder/master/art/11.gif)
+ 
